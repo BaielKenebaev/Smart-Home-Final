@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "265531718626",
+    "project_id": "smart-home-final",
+    "storage_bucket": "smart-home-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265531718626:android:78427ec5d63b9be21cd7bb",
+        "android_client_info": {
+          "package_name": "com.example.smarthomefinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265531718626-2q8dc2fjda3nvatog2s4d7du9eice3cd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFPlsda-YCbSxPfoWRZzh5Am_MGszI498"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265531718626-2q8dc2fjda3nvatog2s4d7du9eice3cd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
